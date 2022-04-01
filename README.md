@@ -14,3 +14,13 @@ Se recomienda crear una organizacion que sea la propietaria del repositorio prin
 
 ## Creacion del fork
 Para crear un fork debes iniciar sesion en github y luego ingresar a la landig  page del proyecto al que quieras sacar tu fork
+
+## Como trabajar con 2 o mas remotos
+Listar Remotos
+    `git remote -v`
+
+Agregar remotos
+`git remote add cuatro20 https://github.com/cuatro200/CursoGit.git`
+
+Eliminar remotos
+`git remote remove cuatro20`
